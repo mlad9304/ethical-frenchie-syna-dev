@@ -2,7 +2,8 @@
 title = "Buy a Frenchie = Save an Animal"
 weight = 30
 icon = "fas fa-code"
-image = "img/buy.svg"
+[asset]
+    image = "gaurantees/buy.svg"
 #url = "#"
 +++
 

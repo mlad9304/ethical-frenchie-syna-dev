@@ -1,8 +1,8 @@
 +++
 title = "Early Puppy Socialization"
 weight = 20
-icon = "fas fa-random"
-image = "img/socialization.svg"
+[asset]
+    image = "gaurantees/socialization.svg"
 #url = "#"
 +++
 
