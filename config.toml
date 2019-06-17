@@ -1,3 +1,39 @@
-baseURL = "http://example.org/"
+baseURL = "https://ethicalfrenchie.com/"
+copyright = "Ethical Frenchie LLC"
 languageCode = "en-us"
-title = "My New Hugo Site"
+languageLang = "en"
+title = "Ethical Frenchie"
+themesDir = "themes"
+theme = "syna"
+
+[params]
+  [params.style]
+    background = "#fefefe"
+
+# main/prepend/postpend menus are displayed in nav fragment.
+# Keep an eye out for updates. These will be moved out to make navbar more
+# configurable.
+[[menu.main]]
+  url = "#"
+  name = "Home"
+  weight = 10
+
+[[menu.main]]
+  url = "/about-us"
+  name = "About Us"
+  weight = 15
+
+[[menu.main]]
+  url = "/puppies"
+  name = "Puppies"
+  weight = 20
+
+[[menu.main]]
+  url = "/blog"
+  name = "Our Blog"
+  weight = 30
+
+[[menu.main]]
+  url = "/contact-us"
+  name = "Contact"
+  weight = 30
