@@ -37,7 +37,7 @@ body {
   }
   main {
     padding: 0;
-    section.hero-slideshow {
+    div.header-image {
       @extend %full-width;
       height: 885px;
       margin-bottom: 20px;
@@ -53,78 +53,9 @@ body {
       @include media-query-max($phn-sm) {
         height: 265px;
       }
-      div.swiper-container {
-        box-shadow: $box-lg;
-        ul.swiper-wrapper {
-          li.swiper-slide {
-            div.background-img {
-              @extend %full-width;
-              background-position: center center;
-              background-repeat: no-repeat;
-              background-size: cover;
-              height: 885px;
-              @include media-query-max($dsk) {
-                height: 765px;
-              }
-              @include media-query-max($tbl) {
-                height: 585px;
-              }
-              @include media-query-max($phn-lg) {
-                height: 345px;
-              }
-              @include media-query-max($phn-sm) {
-                height: 265px;
-              }
-              div.overlay {
-                @extend %content-center;
-                @extend %flex;
-                @extend %full-width;
-                @extend %items-flex-end;
-                @extend %relative;
-                background: linear-gradient(to bottom, rgba(0,0,0,0.0) 0%, rgba(0,0,0,0.0) 20%,rgba(0,0,0,0.1) 40%,rgba(0,0,0,0.7) 70%,rgba(0,0,0,1) 100%);
-                height: 885px;
-                @include media-query-max($dsk) {
-                  height: 765px;
-                }
-                @include media-query-max($tbl) {
-                  height: 585px;
-                }
-                @include media-query-max($phn-lg) {
-                  height: 345px;
-                }
-                @include media-query-max($phn-sm) {
-                  height: 265px;
-                }
-                div.hero-contact {
-                  @extend %absolute;
-                  @extend %content-center;
-                  @extend %flex;
-                  @extend %flex-column;
-                  @extend %items-center;
-                  margin: 0 0 20px;
-                  bottom: 0;
-                  z-index: 20;
-                  > * {
-                    color: $background;
-                  }
-                  h2  {
-                    font-size: 21px;
-                    font-weight: bold;
-                    margin: 0 0 5px;
-                  }
-                  p {
-                    font-size: 13px;
-                    margin: 0 0 10px;
-                  }
-                }
-              }
-            }
-          }
-        }
-      }
-      nav.cta-social {
-        margin: -20px auto 0;
-      }
+    }
+    nav.cta-social {
+      margin: -20px auto 0;
     }
   }
   a.brand {
