@@ -4,8 +4,8 @@
 {{- with .params.title }}
   <div class="row mx-0">
     <div class="col px-0
-      {{- printf " text-%s" $align -}}
-      {{- partial "helpers/text-color.html" (dict "self" $self) -}}
+      {{- printf " text-%s " $align -}}
+      text-body
     ">
       <h2>
         {{- . | markdownify -}}
@@ -15,7 +15,7 @@
 {{- end -}}
 {{- with .params.subtitle -}}
   <div class="row mx-0">
-    <div class="col pt-4 pb-0 px-0
+    <div class="col py-4 pb-0 px-0
       {{- printf " text-%s" $align -}}
       {{- partial "helpers/text-color.html" (dict "self" $self) -}}
     ">
