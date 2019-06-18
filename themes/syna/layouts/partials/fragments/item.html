@@ -23,7 +23,8 @@
     ">
       {{- if .Params.title }}
         <div class="row pb-3">
-          <div class="col-12 text-body">
+          <div class="col-12
+            {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}">
             <h2>
               {{- .Params.title | markdownify -}}
             </h2>
