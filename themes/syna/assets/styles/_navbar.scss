@@ -44,7 +44,7 @@ nav#static-navbar {
   color: $text;
 }
 
-@include media-query-max($md) {
+@include media-query-min($md) {
     nav#static-navbar {
       display: none;
     }
