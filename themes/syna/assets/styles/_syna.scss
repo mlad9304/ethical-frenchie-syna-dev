@@ -1,3 +1,6 @@
+@import 'variables';
+@import 'mixins';
+
 .nav-link {
   color: $navbar-light-color;
 
@@ -216,7 +219,7 @@ section .bg {
   background-color: $main!important;
 }
 
-@media screen and (max-width: 992px) {
+@include media-query-max($md) {
   #copyright {
     margin-bottom: 70px;
   }

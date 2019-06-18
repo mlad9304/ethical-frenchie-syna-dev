@@ -37,10 +37,14 @@ body {
   }
   main {
     padding: 0;
+    @include media-query-min($md) {
+      margin: 55px 0 0;
+    }
     div.header-image {
       @extend %full-width;
       height: 885px;
       margin-bottom: 20px;
+      background-position: top;
       @include media-query-max($dsk) {
         height: 765px;
       }

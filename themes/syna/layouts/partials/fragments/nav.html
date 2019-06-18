@@ -6,7 +6,7 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- "<!-- Navigation -->" | safeHTML -}}
-<nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy fixed-top py-2 d-none d-lg-block
+<nav class="fragment navbar navbar-expand-lg py-2 scroll-spy fixed-top py-2 d-none d-lg-block
   {{- printf " bg-%s" $bg -}}
   {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
     {{- printf " navbar-%s" "light" -}}

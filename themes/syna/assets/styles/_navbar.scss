@@ -1,3 +1,6 @@
+@import 'variables';
+@import 'mixins';
+
 nav#static-navbar {
   @extend %content-space-around;
   @extend %fixed;
@@ -41,7 +44,7 @@ nav#static-navbar {
   color: $text;
 }
 
-@media screen and (min-width: 992px) {
+@include media-query-max($md) {
     nav#static-navbar {
       display: none;
     }
