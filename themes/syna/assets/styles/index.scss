@@ -26,7 +26,6 @@ $dropdown-item-padding-x: 1rem;
 {{- end }}
 @import './bootstrap/bootstrap.scss';
 @import './helpers';
-@import './variables';
 @import './header';
 @import './faq';
 @import './form';
@@ -37,6 +36,3 @@ $dropdown-item-padding-x: 1rem;
 @import './search';
 @import './toc';
 @import './syna';
-@import './extends';
-@import './navbar';
-@import './critical';

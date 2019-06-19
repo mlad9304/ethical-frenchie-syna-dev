@@ -5,7 +5,7 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{ "<!-- Hero -->" | safeHTML }}
-<main id="{{ .Name }}" class="fragment hero">
+<header id="{{ .Name }}" class="fragment hero">
   {{- if .Params.header }}
     <div
       style="background-image:url({{ partial "helpers/image.html" (dict "root" $self "asset" .Params.header) }})"
@@ -20,24 +20,78 @@
   {{- if .Params.particles }}
     <div id="{{ printf "%s-particles-js" .Name }}" class="particles-js"></div>
   {{- end -}}
-  </div>
-  <nav class="cta-social">
-    {{ with .Params.social }}
-      <a href="https://www.facebook.com/{{.}}" class="social-icon facebook" target="_blank" rel="noopener">
-        {{ $facebok := resources.Get "img/facebook.svg" | minify }}
-        <img src="{{ $facebok.Permalink }}" alt="Connect with us on Facebook">
-      </a>
-      <a href="https://www.instagram.com/{{.}}" class="social-icon instagram" target="_blank" rel="noopener">
-        {{ $instagram := resources.Get "img/instagram.svg" | minify }}
-        <img src="{{ $instagram.Permalink }}" alt="Connect with us on Instagram">
-      </a>
-    {{ end }}
-    <a href="tel:+18002057859" class="social-icon tel" target="_blank" rel="noopener">
-      {{ $phone := resources.Get "img/phone.svg" | minify }}
-      <img src="{{ $phone.Permalink }}" alt="Call us">
+  {{- if .Params.asset -}}
+    {{- with .Params.asset }}
+      <div class="row justify-content-center align-items-start">
+        <img
+          class="overlay img-fluid"
+          src="{{ partial "helpers/image.html" (dict "root" $self "asset" .) }}"
+          alt="
+            {{- if .text -}}
+              {{- print .text -}}
+            {{- else if $.Params.title_page -}}
+              {{- print $.root.Title -}}
+            {{- else -}}
+              {{- print $.Params.title -}}
+            {{- end -}}
+          "
+          {{- if .height -}} height="{{ .height }}"{{- end -}}
+          {{- if .width -}} width="{{ .width }}"{{- end -}}
+        ></img>
+      </div>
+    {{- end }}
+    {{- with .Params.subtitle }}
+      <div class="row justify-content-center align-items-start">
+        <h1 class="overlay jumbotron-heading my-4
+          {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+        ">
+          {{- . | markdownify -}}
+        </h1>
+      </div>
+    {{- end -}}
+  {{- else }}
+    {{- if .Params.title_page }}
+      <div class="row justify-content-center align-items-start">
+        <h1 class="overlay jumbotron-heading
+          {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+        ">
+          {{ $.root.Title }}
+        </h1>
+      </div>
+    {{- else -}}
+      {{- with .Params.title }}
+        <div class="row justify-content-center align-items-start">
+          <h1 class="overlay jumbotron-heading
+            {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+          ">
+            {{- . -}}
+          </h1>
+        </div>
+      {{- end -}}
+    {{- end -}}
+    {{- with .Params.subtitle }}
+      <div class="row justify-content-center align-items-start">
+        <div class="overlay lead
+          {{- partial "helpers/text-color.html" (dict "self" $self.self) -}}
+        ">
+          {{- . | markdownify -}}
+        </div>
+      </div>
+    {{- end -}}
+  {{- end -}}
+  {{- range .Params.buttons }}
+    <a class="overlay btn btn-lg m-2
+      {{- if hasPrefix .url " # " }} anchor{{ end -}}
+      {{- $color := .color | default "primary" -}}
+      {{- printf " btn-%s " $color -}}
+    " href="{{ .url | relLangURL }}">
+      <div class="column justify-content-center align-content-center">
+        {{- .text -}}
+      </div>
     </a>
-  </nav>
-</main>
+  {{- end }}
+  </div>
+</header>
 <script>
   var fragmentName = "{{ .Name }}";
   {{- $file_path := printf "%s%s/config.json" .page.File.Dir .Name -}}

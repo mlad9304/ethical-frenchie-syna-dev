@@ -1,3 +1,9 @@
+@import 'variables';
+@import 'mixins';
+@import 'extends';
+@import 'navbar';
+@import 'critical';
+
 .nav-link {
   color: $navbar-light-color;
 
@@ -99,7 +105,7 @@ article .content {
 
 .items {
   .header {
-    flex: 0 1 160px;
+    flex: 0 1 180px;
   }
 
   .image {
@@ -204,4 +210,51 @@ section .bg {
 
 #TableOfContents a.active, .active-page {
   font-weight: bold;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: $main;
+  border-color: $main;
+}
+
+.bg-primary {
+  background-color: $main!important;
+}
+
+@include media-query-max($md) {
+  #copyright {
+    margin-bottom: 70px;
+  }
+  .scroll-to-top {
+    bottom: 75px;
+  }
+
+  /*When the modal fills the screen it has an even 2.5% on top and bottom*/
+  /*Centers the modal*/
+  .modal-dialog {
+    margin: 2.5vh auto;
+  }
+
+  /*Sets the maximum height of the entire modal to 95% of the screen height*/
+  .modal-content {
+    max-height: 95vh;
+    overflow: scroll;
+  }
+
+  /*Sets the maximum height of the modal body to 90% of the screen height*/
+  .modal-body {
+    max-height: 90vh;
+  }
+  /*Sets the maximum height of the modal image to 69% of the screen height*/
+  .modal-body img {
+    max-height: 69vh;
+  }
+}
+
+main.puppy-list {
+  .card-footer {
+    text-align: center;
+    border-top: none;
+  }
 }
