@@ -33,7 +33,7 @@ We focus on health first. We health test the parents before ever considering bre
 
 Blue French Bulldog Puppies for sale are not that hard to find – what is hard to find is an ethical breeder that will deliver a French Bulldog puppy that will fit your family and cause no behavioral issues.
 
-![Screenshot of the diamond](diamond_1.jpg)
+![photo of diamond](diamond_1.jpg)
 
 Diamond will be on the smaller side, but her personality is huge and she will steal the show, everywhere she goes. Are you ready to add this little girl to your family? Fill out our contact form and we will be with you shortly. To see our other French Bulldog Puppies for sale in NC click here:
 [Puppies](/puppies)

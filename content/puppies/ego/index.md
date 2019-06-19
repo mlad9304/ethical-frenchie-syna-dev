@@ -15,14 +15,25 @@ My mom tells me I have the perfect structure and composition – I will grow up 
   image = "puppies/ego.jpg"
 +++
 
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being, you know, shot.
+### Personality
 
-![Screenshot of the demo](screenshot.png)
+My name is Ego and I’m a solid blue French Bulldog puppy, currently residing in Manhattan, New York. I’m 11 weeks old but already pretty big and chunky boy. My mom tells me I have the perfect structure and composition – I will grow up to be a perfect stud muffin. My blue eyes are just a bonus. I’m just the easiest little man to get along with. I don’t complicate and I’m super satisfied with just chilling in your lap or chasing a ball across the floor.
 
-You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life. I think my strongest asset maybe by far is my temperament. I have a placeholding temperament. Lorem Ipsum's father was with Lee Harvey Oswald prior to Oswald's being, you know, shot. You’re disgusting.
+We have a private roof and I love laying outside in the sun – in the typical Frenchie frog leg style. I love playing and am super good at destroying toys – so my current mom will recommend some durable toys that you can buy for me that will last more than 60 seconds.
 
-You're telling the enemy exactly what you're going to do. No wonder you've been fighting Lorem Ipsum your entire adult life.
+I know there are plenty blue frenchies for adoption, but I will definitely spice things up in your household by being my clownish self, stealing your socks, sneakers and girlfriend – if you have one.
 
-Lorem Ipsum is **FAKE TEXT**! I think the only card she has is the Lorem card. I write the best placeholder text, and I'm the biggest developer on the web by far... While that's mock-ups and this is politics, are they really so different?
+### Health
 
-My text is long and beautiful, as, it has been well documented, are various other parts of my website. My text is long and beautiful, as, it has been well documented, are various other parts of my website. I don't think anybody knows it was Russia that wrote Lorem Ipsum, but I don't know, maybe it was. It could be Russia, but it could also be China. It could also be lots of other people. It also could be some wordsmith sitting on their bed that weights 400 pounds. Ok? My placeholder text, I think, is going to end up being very good with women.
+I’m as healthy as can be. My parents are health tested and panel 4 cleared. Additional health testing can be done on any pup if required by the new potential parent. But other than that I’m up to date on shots, dewormed multiple times, vet checked on many occasions, microchipped and ready to go. I know they say blue frenchies tend to be more sensitive and have more skin issues, but I come from healthy bloodlines that weren’t prone to any major health difficulties.
+
+My temporary human parents focus on the well being and spoiling of us – blue frenchies, as well as finding us the perfect family that’s looking for French Bulldog Puppies for adoption NYC. Come meet me and let’s see if we are a match!
+
+Also feel free to explore our blog on the best products you can use for French Bulldog care. We like everything organic produced from only natural ingredients that work wonders for the blue Frenchies and just generally for the bulldog breed. There are also grooming tips and tricks that might be useful for a new Frenchie owner.
+
+If you are looking for French Bulldog Puppies for adoption NYC, please fill out the contact form and we will be with you in no time. Our blue frenchies are waiting for their forever homes now!
+
+![Photo of ego](ego_1.jpg)
+![Photo of ego](ego_2.jpg)
+
+**Location**: NYC
