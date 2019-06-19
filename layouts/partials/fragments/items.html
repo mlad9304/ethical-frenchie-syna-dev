@@ -4,7 +4,7 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "Name" .Name "Params" .Params) -}}
   {{- partial "helpers/section-header.html" (dict "self" $self.self "bg" $bg "params" .Params) }}
-  <div class="row justify-content-center align-items-stretch items">
+  <div class="row justify-content-center align-items-start">
     {{- if eq (len $items) 0 -}}
       {{- partial "helpers/empty-subpath.html" (dict "context" "items" "root" $) -}}
     {{- else -}}
