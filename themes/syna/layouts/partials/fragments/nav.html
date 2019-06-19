@@ -206,6 +206,7 @@
     noResults: '#search-no-results-template-{{ .Name }}',
     empty: '#search-empty-template-{{ .Name }}',
   });
+
   var resultsContainer = document.querySelector('.search-results-container');
   document.querySelector('#search-query-{{ .Name }}').addEventListener('input', function(e) {
     if (e.target.value.length) {
@@ -214,6 +215,7 @@
       resultsContainer.classList.remove('show');
     }
   });
+
   document.addEventListener('click', function(e) {
     if (!document.querySelector('.search-container').contains(e.target)) {
       document.querySelector('#search-query-{{ .Name }}').value = '';

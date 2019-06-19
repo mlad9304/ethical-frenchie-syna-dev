@@ -1,29 +1,21 @@
 +++
-title = "Huge Gopher"
-weight = 0
+title = "Tiny Gopher 4"
+weight = 30
 date = "2017-10-17"
 
-position = "Lead Gopherineer"
-company = "Okkur Labs"
-
-reports_to = "CTO"
-lives_in = "[Munich, Germany](https://www.google.com/maps/place/Munich,+Germany/)"
+position = "Gopherineer"
+lives_in = "[Iceland](https://www.google.com/maps/place/Iceland/)"
 scope = [
-  "UX for [Food Dashboard](#)",
-  "Maintainer for [Goper Team A](#)",
-  "Gopher [Community Administration](#)"
+  "Gopherineering for various tasks",
+  "Contributor for [Goper Team A](#)",
+  "Gopher Community Member"
 ]
 
-[[icons]]
-  icon = "fab fa-linkedin-in"
-  text = "Linkedin"
-  url = "#"
-
 [asset]
-  image = "hugegopher.png"
+  image = "tinygopher.png"
 +++
 
-Hugely huge Gopher
+Really tiny Gopher
 
 Some more text to showcase the capabilities:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
