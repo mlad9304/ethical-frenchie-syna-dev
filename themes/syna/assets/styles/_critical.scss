@@ -10,6 +10,9 @@ html {
   box-sizing: border-box;
   -webkit-overflow-scrolling: touch;
 }
+a {
+  color: $main;
+}
 body {
   font: 400 18px 'Montserrat', sans-serif;
   height: 100%;

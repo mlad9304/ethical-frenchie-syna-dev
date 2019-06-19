@@ -248,3 +248,10 @@ section .bg {
     max-height: 69vh;
   }
 }
+
+main.puppy-list {
+  .card-footer {
+    text-align: center;
+    border-top: none;
+  }
+}
