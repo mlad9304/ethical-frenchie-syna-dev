@@ -11,19 +11,29 @@ summary = """
 I'm extremely sweet and easily adjustable to new situations and environments.
 """
 
-[sidebar]
-  align = "right"
-
 [asset]
   image = "puppies/electra.jpg"
 +++
 
-Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.
+Meet ELECTRA! She is one of our French Bulldog puppies for sale in NY. She’s a merle blue pied French Bulldog puppy with amazing blue eyes – standard for the merle. Electra definitely makes a statement with her appearance and her awesome temperament.
 
-Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
+This litter only produced 3 puppies. Two girls and one boy who unfortunately didn’t make it. Our merle French Bulldog girls are almost ready to go to their forever homes, right after their next round of vaccines in the following week. We consider ourselves to be reputable French Bulldog breeders and provide best care for our puppies. We are talking about 24⁄7 contact care, temperature measuring, weighing, so losing a puppy is twice as devastating, when you know you did everything right.
 
-Lucio fulci tremor est dark vivos magna. Expansis creepy arm yof darkness ulnis witchcraft missing carnem armis Kirkman Moore and Adlard caeruleum in locis. Romero morbo Congress amarus in auras. Nihil horum sagittis tincidunt, zombie slack-jawed gelida survival portenta. The unleashed virus est, et iam zombie mortui ambulabunt super terram. Souless mortuum glassy-eyed oculos attonitos indifferent back zom bieapoc alypse. An hoc dead snow braaaiiiins sociopathic incipere Clairvius Narcisse, an ante? Is bello mundi z?
+![Photo of electra](electra_1.jpg)
+![Photo of electra](electra_2.jpg)
 
-In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum. Golums, zombies unrelenting et Raimi fascinati beheading. Maleficia! Vel cemetery man a modern bursting eyeballs perhsaps morbi. A terrenti flesh contagium. Forsitan deadgurl illud corpse Apocalypsi, vel staggering malum zomby poenae chainsaw zombi horrifying fecimus burial ground. Indeflexus shotgun coup de poudre monstra per plateas currere. Fit de decay nostra carne undead. Poenitentiam violent zom biehig hway agite RE:dead pœnitentiam! Vivens mortua sunt apud nos night of the living dead.
+### Personality
 
-Whyt zomby Ut fames after death cerebro virus enim carnis grusome, viscera et organa viventium. Sicut spargit virus ad impetum, qui supersumus flesh eating. Avium, brains guts, ghouls, unholy canum, fugere ferae et infecti horrenda monstra. Videmus twenty-eight deformis pale, horrenda daemonum. Panduntur brains portae rotting inferi. Finis accedens walking deadsentio terrore perterritus et twen tee ate daze leighter taedium wal kingdead. The horror, monstra epidemic significant finem. Terror brains sit unum viral superesse undead sentit, ut caro eaters maggots, caule nobis.
+Electra could be described as the mellow French Bulldog Puppy sister compared to Sola. She is extremely sweet and easily adjustable to new situations and environments. She is the much smaller and submissive sister, but nonetheless just as special and adorable. Might be a bit shy while adjusting to her new home, so give her time and her personality will shine through. This Merle Frenchie puppy is great with kids and other animals.
+
+![Photo of electra](electra_3.jpg)
+
+### Health
+
+If you researched the breed before deciding to buy a French Bulldog puppy, you know the breed in itself comes with some allergies and is very delicate indeed. Electra comes from healthy bloodlines and aren’t predisposed to any genetic conditions. Before leaving for their homes she will be up to date on their shots, dewormed on multiple occasions and free of any intestinal parasites, microchipped and pre-spoiled. They also come with a health guarantee. We consider ourselves as reputable French Bulldog breeders and focus on health and temperament of the puppies – ALWAYS.
+
+If you are a first time French Bulldog puppy owner, feel free to check out our blog. It will offer some insight into where to go food and general care wise. Best organic products for the sensitive French Bulldog skin, grooming tools that might come in handy, shampoos that provide moisture and don’t irritate.
+
+Food that won’t negatively affect digestion, cause flatulence or any other issues that Frenchies are prone to. All the food and grooming supplies we recommend are easy accessible for someone who is looking for French Bulldog puppies for sale NY. Your welcome. Almost every Pet Smart or PetCo carry all of the products. And then there is always Amazon at the end of the day. If you ever need food recommendations feel free to reach out at any time.
+
+**Location**: NY
