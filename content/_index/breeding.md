@@ -15,7 +15,7 @@ title = "Breeding with Love"
 
 [[buttons]]
   text = "View Our Puppies!"
-  url = "#"
+  url = "puppies"
   color = "primary"
 
 +++
