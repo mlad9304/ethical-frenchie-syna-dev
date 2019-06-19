@@ -1,4 +1,4 @@
 +++
-date = "2018-07-21"
-title = "About Us"
+ title = "About Us"
+ description = "Ethical Frenchie is the #1 French Bulldog adoption service and breeder on the East Coast."
 +++

@@ -1,7 +1,6 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2017-10-05"
 weight = 113
 background = "primary secondary"
 

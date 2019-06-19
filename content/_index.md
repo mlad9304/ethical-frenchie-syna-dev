@@ -1,5 +1,5 @@
 +++
 date = "2018-07-20"
-title = "Syna Theme"
-description = "Open Source Theme from Okkur for your next project"
+title = "French Bulldog Puppies"
+description = "Find the best french bulldogs for sale over the phone or in person. Vigorous qualification standards. Applications required. Call now (800) 205-7859."
 +++

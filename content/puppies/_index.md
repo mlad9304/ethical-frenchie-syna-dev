@@ -1,4 +1,4 @@
 +++
-date = "2018-07-21"
-title = "Blog"
+title = "French Bulldog Puppies"
+description = "View our puppy portfolio and learn the story behind each of our French Bulldogs."
 +++

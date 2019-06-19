@@ -8,11 +8,6 @@ align = "center"
 
 title = "Breeding with Love"
 
-# Subtitle pre and post item
-#pre = ""
-#post = ""
-
-
 [[buttons]]
   text = "View Our Puppies!"
   url = "puppies"
