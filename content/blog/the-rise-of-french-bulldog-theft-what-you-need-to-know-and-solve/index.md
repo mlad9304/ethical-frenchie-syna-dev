@@ -1,7 +1,7 @@
 +++
 title = "The Rise of French Bulldog Theft: What You Need to Know and Solve"
 date = "2019-05-13"
-categories = ["french-bulldog-theft", "frenchie-theft", "caring-for-your-frenchie"]
+categories = ["french bulldog theft", "frenchie theft", "caring for your frenchie"]
 summary = """
 Feature pic: French bulldog Lovely and charming, the French bulldog breed has ranked in the list of top desirable dogs around the world.
 """

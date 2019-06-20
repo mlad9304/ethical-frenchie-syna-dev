@@ -1,7 +1,7 @@
 +++
 title = "7 French Bulldog Facts that Might Surprise and Astound You"
 date = "2019-03-18"
-categories = ["frenchie", "french-bulldog", "frenchie-kb"]
+categories = ["frenchie", "french bulldog", "frenchie kb"]
 summary = """
 1. French Bulldogs are a Hit with Hollywood Royalty With their calm French Bulldog temperament and undeniable star-quality, it may not shock you to learn that celebrities go gaga for Frenchies!
 """
