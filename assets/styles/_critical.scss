@@ -38,7 +38,7 @@ body {
     top: 0;
     z-index: 50;
   }
-  main {
+  & > main {
     padding: 0;
     @include media-query-min($md) {
       margin: 55px 0 0;

@@ -1,5 +1,5 @@
 +++
-fragment = "content"
+fragment = "blog"
 weight = 100
 #background = ""
 
