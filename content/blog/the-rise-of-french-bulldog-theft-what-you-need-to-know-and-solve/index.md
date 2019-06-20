@@ -7,8 +7,6 @@ Feature pic: French bulldog Lovely and charming, the French bulldog breed has ra
 """
 description = "As French bulldogs are at high risk of being stolen and the French bulldog theft has been on the increase, it's time to take immediate precaution measures."
 author = "James Harrison"
-[asset]
-  image = "french-bulldog.jpg"
 
 #subtitle = ""
 fragment = "blog"
@@ -19,7 +17,8 @@ display_date = true
 display_categories = true
 [sidebar]
   align = "right"
-
+[asset]
+  image = "french-bulldog.jpg"
 +++
 
 Feature pic: French bulldog
