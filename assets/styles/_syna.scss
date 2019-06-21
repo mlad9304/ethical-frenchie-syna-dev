@@ -3,6 +3,8 @@
 @import 'extends';
 @import 'navbar';
 @import 'critical';
+@import 'owl.carousel';
+@import 'owl.theme';
 
 .nav-link {
   color: $navbar-light-color;
@@ -342,5 +344,68 @@ main.puppy-list {
         }
       }
     }
+  }
+}
+
+#testimonial-slider {
+  
+}
+.testimonial{
+  margin: 20px 10px 0;
+  position: relative;
+
+  .pic{
+    padding: 5px;
+    background: #fff;
+    border: 1px solid #d6d6d6;
+    position: absolute;
+    top: -20px;
+    left: 5px;
+    z-index: 1;
+    width: 60px;
+    height: 60px;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .description {
+    padding: 30px 45px 30px 60px;
+    margin-left: 34px;
+    border: 1px solid #d6d6d6;
+    font-size: 14px;
+    color: #6d6d6d;
+    line-height: 26px;
+    position: relative;
+  }
+
+  .testimonial-content{
+    margin: 20px 0 0 34px;
+  }
+
+  .title{
+    display: inline-block;
+    font-size: 14px;
+    color: #fc6963;
+  }
+
+  .date{
+    display: block;
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 2px;
+  }
+
+}
+.owl-theme .owl-controls{
+  margin-top: 30px;
+}
+.owl-theme .owl-controls .owl-page span{
+  background: #fc6963;
+}
+@include media-query-max(990px) {
+  .testimonial .description:before{
+    display: none;
   }
 }

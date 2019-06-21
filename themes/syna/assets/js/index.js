@@ -3,6 +3,8 @@ import './scroll';
 import './modal';
 
 import $ from './helpers/jq-helpers';
+import './owl-carousel';
+import './carousel';
 
 $(document)
   .on('click', '.btn-group-toggle .btn', e => {

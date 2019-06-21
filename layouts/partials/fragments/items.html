@@ -12,7 +12,7 @@
         {{/* Handle special case of index.md being considered an item */}}
         {{- if not (in .Name "/index.md") -}}
           {{- $item := .Params }}
-          <div class="col-lg-4 col-md-6 d-flex flex-column">
+          <div class="col-lg-4 col-md-6 flex-column">
             {{- if and $item.asset $item.asset.url }}
               <a href="{{ $item.asset.url | relLangURL }}" class="col justify-content-between d-flex flex-column header
                 {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "") -}}
